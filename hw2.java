@@ -39,5 +39,6 @@ public class hw2 {
         ticketClass A_machine = new ticketClass("machine_A");
         ticketClass B_machine = new ticketClass("machine_B");
         ticketClass C_machine = new ticketClass("machine_C");
+        ticketClass D_machine = new ticketClass("machine_D");
     }
 }
